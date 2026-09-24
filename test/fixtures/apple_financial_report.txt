@@ -1,0 +1,7 @@
+Start Date	End Date	UPC	ISRC/ISBN	Vendor Identifier	Quantity	Partner Share	Extended Partner Share	Partner Share Currency	Sales or Return	Apple Identifier	Artist/Show/Developer/Author	Title	Label/Studio/Network/Developer/Publisher	Grid	Product Type Identifier	ISAN/Other Identifier	Country Of Sale	Pre-order Flag	Promo Code	Customer Price	Customer Currency
+08/31/2026	10/04/2026			com.example.pro	10	3.49	34.90	USD	S	1234567890	Example Dev	Example Pro			IA1		US			4.99	USD
+08/31/2026	10/04/2026			com.example.pro	-1	3.49	-3.49	USD	R	1234567890	Example Dev	Example Pro			IA1		US			-4.99	USD
+08/31/2026	10/04/2026			com.example.app	3	1.99	5.97	USD	S	1234567891	Example Dev	Example App			1F		CA			2.99	USD
+Total_Rows	3
+Total_Amount	37.38
+Total_Units	12

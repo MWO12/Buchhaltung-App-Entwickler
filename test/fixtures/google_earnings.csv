@@ -1,0 +1,6 @@
+Description,Transaction Date,Transaction Time,Tax Type,Transaction Type,Refund Type,Product Title,Product id,Product Type,Sku Id,Hardware,Buyer Country,Buyer State,Buyer Postal Code,Buyer Currency,Amount (Buyer Currency),Currency Conversion Rate,Merchant Currency,Amount (Merchant Currency)
+GPA.1111,"Sep 1, 2026",10:00:00 AM PDT,,Charge,,Example Pro,com.example,1,pro_monthly,,DE,,,EUR,4.99,1.000000,EUR,4.99
+GPA.1111,"Sep 1, 2026",10:00:00 AM PDT,,Google fee,,Example Pro,com.example,1,pro_monthly,,DE,,,EUR,-0.75,1.000000,EUR,-0.75
+GPA.2222,"Sep 15, 2026",11:00:00 AM PDT,,Charge,,Example Pro,com.example,1,pro_monthly,,US,CA,,USD,5.99,0.910000,EUR,"1,000.00"
+GPA.2222,"Sep 15, 2026",11:00:00 AM PDT,,Google fee,,Example Pro,com.example,1,pro_monthly,,US,CA,,USD,-0.90,0.910000,EUR,-150.00
+GPA.3333,"Sep 20, 2026",09:00:00 AM PDT,,Charge refund,Full,Example Pro,com.example,1,pro_monthly,,DE,,,EUR,-4.99,1.000000,EUR,-4.99
